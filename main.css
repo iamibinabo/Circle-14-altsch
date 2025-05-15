@@ -44,3 +44,14 @@ header img {
   justify-content: space-between;
   align-items: center;
 }
+
+hr{
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+/* footer */
+footer{
+  text-align: center;
+  margin:50px  auto;
+}
