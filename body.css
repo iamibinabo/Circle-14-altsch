@@ -1,0 +1,19 @@
+/* Image Container Grid */
+.img-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin: 2.5rem;
+}
+
+.image_1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.image_text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
