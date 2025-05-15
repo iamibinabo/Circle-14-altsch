@@ -36,8 +36,14 @@ header img {
   height: auto;
   border-radius: 8px;
 }
+hr{
+  max-width: 1200px;
+  margin: 30px auto;
+}
 
 /* footer */
 footer{
   text-align: center;
+  margin: 50px auto;
+  font-size: 16px;
 }
