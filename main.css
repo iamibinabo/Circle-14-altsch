@@ -122,6 +122,10 @@ main {
   gap: 0.5rem;
 }
 
+.image-border {
+  border-radius: 8px;
+}
+
 .image_text {
   display: flex;
   justify-content: space-between;
