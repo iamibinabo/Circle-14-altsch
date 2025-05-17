@@ -122,10 +122,17 @@ main {
   gap: 0.5rem;
 }
 
+
+.img-border {
+  border-radius: 8px;
+}
+
 .image_text {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-size: 1.25rem;
+  font-weight: 500;
 }
 
 hr {
