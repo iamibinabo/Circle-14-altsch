@@ -7,6 +7,9 @@
   font-family: "Poppins", sans-serif;
 }
 
+.container {
+ background-color: #FCF5E5;
+}
 /* Header Section */
 
 header {
@@ -35,7 +38,7 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  background-color: #fff4df;
+;
   padding: 20px;
   border-radius: 12px;
   margin-bottom: 40px;
@@ -132,3 +135,4 @@ footer{
   text-align: center;
   margin:50px  auto;
 }
+
